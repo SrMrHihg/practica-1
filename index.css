@@ -1,0 +1,67 @@
+*{
+    margin: 0%;
+  }
+  
+  html{
+    font-family: ;
+  }
+  #temporizador {
+    font-size: 72pt;
+    margin: 70px auto;
+    width: 100px;
+  }
+  
+  #segundos {
+    font-family: '';
+    padding: 0px;    
+    border: 0px solid rgb(000 000 000 / 100%);
+    border-color:;
+  }
+  
+  .element {
+   
+    display: block;
+    color: black;
+    padding: 10px;    
+    font-weight: bold;
+    border: 2px solid rgb(191 190 187 / 50%);
+    border-color: #27af27;
+  }
+  
+  .element {
+    
+    display: block;
+    padding: 8px;    
+    font-weight: bold;
+    border: 2px solid rgb(191 190 187 / 50%);
+    border-color: blueviolet;
+  }
+  *{
+    margin: 10%;
+    
+  }
+  
+      #element {
+        color: ;
+        margin: 0px auto;
+        width: 0px;
+  }
+  #element {
+        color: ;
+        margin: 0px auto;
+        width: 0px;
+  }
+  
+  #element {
+        color: blue;
+        margin: 0px auto;
+        width: 0px;
+  }
+  
+  #element {
+    font-size: pt;
+    margin: 10px auto;
+    width: auto;
+    text-align: center;
+    display: block;
+  }
